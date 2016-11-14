@@ -10,6 +10,11 @@ div.comedycellar{
     left: 100px;
 top:100px;}
 
+div.cvs{
+    position: relative;
+    left: 100px;
+top:100px;}
+
 div.minettatavern{
     position: relative;
     left: 200px;
@@ -40,6 +45,24 @@ Famous comics are often in the lineup at this brick-walled comedy club with seve
     </span>
 </div>
 </a>
+
+<div class="cvs">
+<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.cvs.com/" target="_blank" class="tooltipgre">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_gre.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_gre.png" />
+ <font color = "ffffff" size = "2">
+        <strong>CVS Pharmacy</strong><br />
+<i>
+Pharmacy
+</i><br><br>
+158 Bleecker St<br>
+212.982.3133
+    </span>
+</div>
+</a>
+
 
 <div class="bluenote">
 <link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
