@@ -1,5 +1,175 @@
 <style>
 
+div.12chairscafe{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.annisa{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.babbo{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.bluehill{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.bondst{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.burgerjoint{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.bychloe{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.carbone{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.dante{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.domodomo{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.doscaminos{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.freud{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.gato{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.llmulino{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.jgmelon{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.joespizza{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.josephbleonard{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.lafayette{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.lesouk{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.mermaid{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.minettatavern{
+    position: relative;
+    left: 315px;
+top:365px;}
+
+div.misslilys{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.murraybagel{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.navy{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.negrilvillage{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.neta{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.onetwo{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.otto{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.ramenya{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.sadelles{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.sweetgreen{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.tacombi{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.thedutch{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
+div.vic{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
 div.bluenote{
     position: relative;
     left: 300px;
@@ -10,20 +180,15 @@ div.comedycellar{
     left: 315px;
 top:370px;}
 
-div.cvs{
-    position: relative;
-    left: 450px;
-top:490px;}
-
-div.minettatavern{
-    position: relative;
-    left: 315px;
-top:365px;}
-
 div.soulcycle{
     position: relative;
     left: 877px;
 top:225px;}
+
+div.cvs{
+    position: relative;
+    left: 450px;
+top:490px;}
 
 div.thinkcoffee{
     position: relative;
