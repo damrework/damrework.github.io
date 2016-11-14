@@ -10,6 +10,11 @@ div.annisa{
     left: 0px;
     top:0px;}
 
+div.artichokepizza{
+    position: relative;
+    left: 0px;
+    top:0px;}
+
 div.babbo{
     position: relative;
     left: 0px;
@@ -215,6 +220,60 @@ American-Mideastern fare (including standout hummus) featured in a chill, rustic
     </span>
 </div>
 </a>
+
+<div class="annisa"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.annisarestaurant.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Annisa</strong><br />
+<i>
+Eatery from chef Anita Lo, offering American fare with Asian flair & wines from female vintners. - Google
+</i><br><br>
+13 Barrow St
+<br>
+212.741.6699
+    </span>
+</div>
+</a>
+
+<div class="artichokepizza"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.artichokepizza.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Artichoke Pizza</strong><br />
+<i>
+Big slices with creamy artichoke topping & other unique twists draw crowds to this casual pie spot. - Google
+</i><br><br>
+111 Macdougal St
+<br>
+646.278.6100
+    </span>
+</div>
+</a>
+
+<div class="artichokepizza"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.artichokepizza.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Artichoke Pizza</strong><br />
+<i>
+Big slices with creamy artichoke topping & other unique twists draw crowds to this casual pie spot. - Google
+</i><br><br>
+111 Macdougal St
+<br>
+646.278.6100
+    </span>
+</div>
+</a>
+
+
+
 
 
 <div class="minettatavern"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
