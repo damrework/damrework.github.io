@@ -25,6 +25,11 @@ div.soulcycle{
     left: 100px;
 top:100px;}
 
+div.thinkcoffee{
+    position: relative;
+    left: 100px;
+top:100px;}
+
 </style>
 
 <body>
@@ -116,4 +121,19 @@ Physical Fitness Program
 </div>
 </a>
 
-
+<div class="thinkcoffee">
+<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.thinkcoffee.com/" target="_blank" class="tooltiporg">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_org.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_org.png" />
+ <font color = "ffffff" size = "2">
+        <strong>Think Coffee</strong><br />
+<i>
+Fair Trade organic coffee, sandwiches & baked goods served in a laid-back East Village setting. - Google
+</i><br><br>
+248 Mercer St<br>
+212.228.6226
+    </span>
+</div>
+</a>
