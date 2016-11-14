@@ -44,6 +44,11 @@ div.carbone{
     position: relative;
     left: 0px;
     top:0px;}
+    
+div.charliebird{
+    position: relative;
+    left: 0px;
+    top:0px;}
 
 div.dante{
     position: relative;
@@ -268,6 +273,108 @@ Buzzing carriage house featuring the high-end Italian fare of prestigious chef M
 110 Waverly Pl
 <br>
 212.777.0303
+    </span>
+</div>
+</a>
+
+<div class="bluehill"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.bluehillfarm.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Blue Hill</strong><br />
+<i>
+Locally sourced, seasonal ingredients abound on the American menu served at this townhouse-set spot. - Google
+</i><br><br>
+75 Washington Pl
+<br>
+212.539.1776
+    </span>
+</div>
+</a>
+
+<div class="bondst"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.bondstrestaurant.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>BONDST</strong><br />
+<i>
+High-end sushi & Japanese dishes in a chic, trendy atmosphere with a well-heeled crowd. - Google
+</i><br><br>
+6 Bond St
+<br>
+212.777.2500
+    </span>
+</div>
+</a>
+
+<div class="burgerjoint"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.burgerjoint.nyc/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Burger Joint</strong><br />
+<i>
+This sleek spot with a woodsy decor offers classic burgers, fries & milkshakes, plus a full bar. - Google
+</i><br><br>
+33 W 8th St
+<br>
+212.432.1400
+    </span>
+</div>
+</a>
+
+
+<div class="bychloe"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.bychefchloe.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>by CHLOE.</strong><br />
+<i>
+Vegan counter-serve pit stop with creative fare, juices & baked goods plus cocktails in funky digs. - Google
+</i><br><br>
+185 Bleecker St
+    </span>
+</div>
+</a>
+
+<div class="carbone"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.carbonenewyork.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Carbone</strong><br />
+<i>
+High-end takes on red-sauce fare await at this A-lister Italian restaurant in a retro-glam space. - Google
+</i><br><br>
+181 Thompson St
+<br>
+212.254.3000
+    </span>
+</div>
+</a>
+
+
+<div class="charliebird"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.carbonenewyork.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Charlie Bird</strong><br />
+<i>
+High-end takes on red-sauce fare await at this A-lister Italian restaurant in a retro-glam space. - Google
+</i><br><br>
+181 Thompson St
+<br>
+212.254.3000
     </span>
 </div>
 </a>
