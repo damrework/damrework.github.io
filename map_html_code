@@ -1,35 +1,39 @@
 <style>
+
 div.bluenote{
     position: relative;
     left: 100px;
-top:100px;
-}
+top:100px;}
+
+div.comedycellar{
+    position: relative;
+    left: 100px;
+top:100px;}
+
 div.minettatavern{
     position: relative;
     left: 200px;
-top:100px;
-}
+top:100px;}
 </style>
+
 <body>
-<div class="minettatavern"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
-<a href="http://www.minettatavernny.com/" target="_blank" class="tooltip">
-<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+
+<div class="comedycellar">
+<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.comedycellar.com/" target="_blank" class="tooltipblu">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_blu.png">
     <span>
-        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_blu.png" />
  <font color = "ffffff" size = "2">
-        <strong>Minetta Tavern</strong><br />
+        <strong>Comedy Cellar</strong><br />
 <i>
-Celeb-magnet hot-ticket tavern with upper-end French bistro fare & reimagined vintage decor. - Google
+Famous comics are often in the lineup at this brick-walled comedy club with several shows nightly. - Google
 </i><br><br>
-113 Macdougal St
-<br>
-212.475.3850
+117 Macdougal St<br>
+212.254.3480
     </span>
 </div>
 </a>
-</link>
-</body>
-
 
 <div class="bluenote">
 <link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
@@ -47,3 +51,23 @@ Legendary jazz musicians take the stage at this intimate club that also serves A
     </span>
 </div>
 </a>
+
+
+<div class="minettatavern"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.minettatavernny.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Minetta Tavern</strong><br />
+<i>
+Celeb-magnet hot-ticket tavern with upper-end French bistro fare & reimagined vintage decor. - Google
+</i><br><br>
+113 Macdougal St
+<br>
+212.475.3850
+    </span>
+</div>
+</a>
+
+
