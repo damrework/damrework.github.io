@@ -38,3 +38,63 @@ a.tooltippur span
     border-radius:0px;
     box-shadow: 5px 5px 8px #CCC;
 }
+
+a.tooltipfus {outline:none; }
+a.tooltipfus strong {line-height:30px;}
+a.tooltipfus:hover {text-decoration:none;} 
+a.tooltipfus span {
+    z-index:10;display:none; padding:7px 2px;
+    margin-top:-25px; margin-left:20px;
+    width:300px; line-height:16px;
+}
+a.tooltipfus:hover span{
+    display:inline; position:absolute; color:#111;
+    border:0px solid #DCA; background:#dd119c;}
+.callout {z-index:20;position:absolute;top:22px;border:0;left:-10px;}
+    
+/*CSS3 extras*/
+a.tooltipfus span
+{
+    border-radius:0px;
+    box-shadow: 5px 5px 8px #CCC;
+}
+
+a.tooltipgre {outline:none; }
+a.tooltipgre strong {line-height:30px;}
+a.tooltipgre:hover {text-decoration:none;} 
+a.tooltipgre span {
+    z-index:10;display:none; padding:7px 2px;
+    margin-top:-25px; margin-left:20px;
+    width:300px; line-height:16px;
+}
+a.tooltipgre:hover span{
+    display:inline; position:absolute; color:#111;
+    border:0px solid #DCA; background:#68dd11;}
+.callout {z-index:20;position:absolute;top:22px;border:0;left:-10px;}
+    
+/*CSS3 extras*/
+a.tooltipgre span
+{
+    border-radius:0px;
+    box-shadow: 5px 5px 8px #CCC;
+}
+
+a.tooltiporg {outline:none; }
+a.tooltiporg strong {line-height:30px;}
+a.tooltiporg:hover {text-decoration:none;} 
+a.tooltiporg span {
+    z-index:10;display:none; padding:7px 2px;
+    margin-top:-25px; margin-left:20px;
+    width:300px; line-height:16px;
+}
+a.tooltiporg:hover span{
+    display:inline; position:absolute; color:#111;
+    border:0px solid #DCA; background:#dd7611;}
+.callout {z-index:20;position:absolute;top:22px;border:0;left:-10px;}
+    
+/*CSS3 extras*/
+a.tooltiporg span
+{
+    border-radius:0px;
+    box-shadow: 5px 5px 8px #CCC;
+}
