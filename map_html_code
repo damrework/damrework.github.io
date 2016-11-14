@@ -14,6 +14,12 @@ div.minettatavern{
     position: relative;
     left: 200px;
 top:100px;}
+
+div.soulcycle{
+    position: relative;
+    left: 100px;
+top:100px;}
+
 </style>
 
 <body>
@@ -66,6 +72,23 @@ Celeb-magnet hot-ticket tavern with upper-end French bistro fare & reimagined vi
 113 Macdougal St
 <br>
 212.475.3850
+    </span>
+</div>
+</a>
+
+<div class="soulcycle">
+<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.soul-cycle.com/" target="_blank" class="tooltipfus">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_fus.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_fus.png" />
+ <font color = "ffffff" size = "2">
+        <strong>SoulCycle - NOHO</strong><br />
+<i>
+Physical Fitness Program
+</i><br><br>
+384 Lafayette St<br>
+212.860.1300
     </span>
 </div>
 </a>
