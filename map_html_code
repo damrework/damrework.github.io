@@ -75,7 +75,7 @@ div.gato{
     left: 0px;
     top:0px;}
 
-div.llmulino{
+div.ilmulino{
     position: relative;
     left: 0px;
     top:0px;}
@@ -416,6 +416,77 @@ Modern, wood-accented Japanese place featuring clever hand rolls, plus sushi, sm
 
 
 
+<div class="doscaminos"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.doscaminos.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Dos Caminos</strong><br />
+<i>
+Vibrant cantina serving modern Mexican cuisine, made-to-order guacamole & tequila cocktails. - Google
+</i><br><br>
+475 W Broadway
+<br>
+212.277.4300
+    </span>
+</div>
+</a>
+
+
+<div class="freud"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.freudnyc.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Freud</strong><br />
+<i>
+Sib to Edi & the Wolf, this Austrian spot offers an elevated menu in a vintage-style setting. - Google
+</i><br><br>
+506 LaGuardia Pl
+<br>
+212.777.0327
+    </span>
+</div>
+</a>
+
+
+<div class="gato"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.gatonyc.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>GATO</strong><br />
+<i>
+Bobby Flay restaurant offering Spanish-accented Mediterranean fare in a hip space with a large bar. - Google
+</i><br><br>
+324 Lafayette St
+<br>
+212.334.6400
+    </span>
+</div>
+</a>
+
+
+
+<div class="ilmulino"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.ilmulino.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Il Mulino</strong><br />
+<i>
+Upmarket restaurant serving classic, regional Italian cuisine in sleek surrounds. - Google
+</i><br><br>
+86 W 3rd St
+<br>
+212.673.3783
+    </span>
+</div>
+</a>
 
 <div class="minettatavern"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
 <a href="http://www.minettatavernny.com/" target="_blank" class="tooltip">
