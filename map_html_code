@@ -199,39 +199,24 @@ top:240px;}
 
 <body>
 
-<div class="comedycellar">
-<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
-<a href="http://www.comedycellar.com/" target="_blank" class="tooltipblu">
-<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_blu.png">
+<div class="minettatavern"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.minettatavernny.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
     <span>
-        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_blu.png" />
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
  <font color = "ffffff" size = "2">
-        <strong>Comedy Cellar</strong><br />
+<strong>Minetta Tavern</strong><br />
 <i>
-Famous comics are often in the lineup at this brick-walled comedy club with several shows nightly. - Google
+Celeb-magnet hot-ticket tavern with upper-end French bistro fare & reimagined vintage decor. - Google
 </i><br><br>
-117 Macdougal St<br>
-212.254.3480
+113 Macdougal St
+<br>
+212.475.3850
     </span>
 </div>
 </a>
 
-<div class="cvs">
-<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
-<a href="http://www.cvs.com/" target="_blank" class="tooltipgre">
-<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_gre.png">
-    <span>
-        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_gre.png" />
- <font color = "ffffff" size = "2">
-        <strong>CVS Pharmacy</strong><br />
-<i>
-Pharmacy
-</i><br><br>
-158 Bleecker St<br>
-212.982.3133
-    </span>
-</div>
-</a>
+
 
 
 <div class="bluenote">
@@ -251,23 +236,24 @@ Legendary jazz musicians take the stage at this intimate club that also serves A
 </div>
 </a>
 
-
-<div class="minettatavern"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
-<a href="http://www.minettatavernny.com/" target="_blank" class="tooltip">
-<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+<div class="comedycellar">
+<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.comedycellar.com/" target="_blank" class="tooltipblu">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_blu.png">
     <span>
-        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_blu.png" />
  <font color = "ffffff" size = "2">
-<strong>Minetta Tavern</strong><br />
+        <strong>Comedy Cellar</strong><br />
 <i>
-Celeb-magnet hot-ticket tavern with upper-end French bistro fare & reimagined vintage decor. - Google
+Famous comics are often in the lineup at this brick-walled comedy club with several shows nightly. - Google
 </i><br><br>
-113 Macdougal St
-<br>
-212.475.3850
+117 Macdougal St<br>
+212.254.3480
     </span>
 </div>
 </a>
+
+
 
 <div class="soulcycle">
 <link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
@@ -285,6 +271,25 @@ Physical Fitness Program
     </span>
 </div>
 </a>
+
+
+<div class="cvs">
+<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.cvs.com/" target="_blank" class="tooltipgre">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_gre.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_gre.png" />
+ <font color = "ffffff" size = "2">
+        <strong>CVS Pharmacy</strong><br />
+<i>
+Pharmacy
+</i><br><br>
+158 Bleecker St<br>
+212.982.3133
+    </span>
+</div>
+</a>
+
 
 <div class="thinkcoffee">
 <link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
