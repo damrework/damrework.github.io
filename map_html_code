@@ -1,0 +1,49 @@
+<style>
+div.bluenote{
+    position: relative;
+    left: 100px;
+top:100px;
+}
+div.minettatavern{
+    position: relative;
+    left: 200px;
+top:100px;
+}
+</style>
+<body>
+<div class="minettatavern"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.minettatavernny.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+        <strong>Minetta Tavern</strong><br />
+<i>
+Celeb-magnet hot-ticket tavern with upper-end French bistro fare & reimagined vintage decor. - Google
+</i><br><br>
+113 Macdougal St
+<br>
+212.475.3850
+    </span>
+</div>
+</a>
+</link>
+</body>
+
+
+<div class="bluenote">
+<link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.bluenotejazz.com/" target="_blank" class="tooltippur">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_pur.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_pur.png" />
+ <font color = "ffffff" size = "2">
+        <strong>Blue Note</strong><br />
+<i>
+Legendary jazz musicians take the stage at this intimate club that also serves American eats. - Google
+</i><br><br>
+131 W 3rd St<br>
+212.475.8592
+    </span>
+</div>
+</a>
