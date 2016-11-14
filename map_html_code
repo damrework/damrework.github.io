@@ -2,33 +2,33 @@
 
 div.bluenote{
     position: relative;
-    left: 100px;
-top:100px;}
+    left: 300px;
+top:300px;}
 
 div.comedycellar{
     position: relative;
-    left: 100px;
-top:100px;}
+    left: 315px;
+top:370px;}
 
 div.cvs{
     position: relative;
-    left: 100px;
-top:100px;}
+    left: 450px;
+top:490px;}
 
 div.minettatavern{
     position: relative;
-    left: 200px;
-top:100px;}
+    left: 315px;
+top:365px;}
 
 div.soulcycle{
     position: relative;
-    left: 100px;
-top:100px;}
+    left: 877px;
+top:225px;}
 
 div.thinkcoffee{
     position: relative;
-    left: 100px;
-top:100px;}
+    left: 735px;
+top:240px;}
 
 </style>
 
