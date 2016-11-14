@@ -199,6 +199,24 @@ top:240px;}
 
 <body>
 
+<div class="12chairscafe"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.12chairscafe.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>12 Chairs Cafe</strong><br />
+<i>
+American-Mideastern fare (including standout hummus) featured in a chill, rustic setting. - Google
+</i><br><br>
+56 Macdougal
+<br>
+212.254.8640
+    </span>
+</div>
+</a>
+
+
 <div class="minettatavern"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
 <a href="http://www.minettatavernny.com/" target="_blank" class="tooltip">
 <img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
