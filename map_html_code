@@ -1,14 +1,14 @@
 <style>
 
-div.12chairscafe{
+div.chairscafe{
     position: relative;
-    left: 0px;
-    top:0px;}
+    left:100px;
+    top:100px;}
 
 div.annisa{
     position: relative;
-    left: 0px;
-    top:0px;}
+    left: 100px;
+    top:100px;}
 
 div.artichokepizza{
     position: relative;
@@ -209,7 +209,7 @@ top:240px;}
 
 <body>
 
-<div class="12chairscafe"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<div class="chairscafe"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
 <a href="http://www.12chairscafe.com/" target="_blank" class="tooltip">
 <img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
     <span>
