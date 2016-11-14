@@ -2,8 +2,8 @@
 
 div.chairscafe{
     position: relative;
-    left:100px;
-    top:100px;}
+    left:350px;
+    top:670px;}
 
 div.annisa{
     position: relative;
@@ -378,6 +378,42 @@ High-end takes on red-sauce fare await at this A-lister Italian restaurant in a 
     </span>
 </div>
 </a>
+
+<div class="dante"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.dante-nyc.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>Dante</strong><br />
+<i>
+Legendary circa-1915 cafe serving small plates & cocktails in an updated historic setting. - Google
+</i><br><br>
+79-81 Macdougal St
+<br>
+212.2982.5275
+    </span>
+</div>
+</a>
+
+
+<div class="domodomo"><link rel="stylesheet" type="text/css" href="https://damrework.github.io/rollover.css" />
+<a href="http://www.dante-nyc.com/" target="_blank" class="tooltip">
+<img src= "https://raw.githubusercontent.com/damrework/damrework.github.io/master/mapicon_red.png">
+    <span>
+        <img class="callout" src="https://raw.githubusercontent.com/damrework/damrework.github.io/master/callout_red.png" />
+ <font color = "ffffff" size = "2">
+<strong>DOMODOMO</strong><br />
+<i>
+Modern, wood-accented Japanese place featuring clever hand rolls, plus sushi, small plates & sake. - Google
+</i><br><br>
+138 W Houston St
+<br>
+646.707.0301
+    </span>
+</div>
+</a>
+
 
 
 
