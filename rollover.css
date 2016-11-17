@@ -2,7 +2,7 @@ a.tooltip {outline:none; }
 a.tooltip strong {line-height:30px;}
 a.tooltip:hover {text-decoration:none;} 
 a.tooltip span {
-    z-index:20;display:none; padding:7px 2px;
+    z-index:200;display:none; padding:7px 2px;
     margin-top:-25px; margin-left:20px;
     width:300px; line-height:16px;
 }
@@ -23,7 +23,7 @@ a.tooltippur {outline:none; }
 a.tooltippur strong {line-height:30px;}
 a.tooltippur:hover {text-decoration:none;} 
 a.tooltippur span {
-    z-index:20;display:none; padding:7px 2px;
+    z-index:200;display:none; padding:7px 2px;
     margin-top:-25px; margin-left:20px;
     width:300px; line-height:16px;
 }
@@ -45,7 +45,7 @@ a.tooltipfus {outline:none; }
 a.tooltipfus strong {line-height:30px;}
 a.tooltipfus:hover {text-decoration:none;} 
 a.tooltipfus span {
-    z-index:20;display:none; padding:7px 2px;
+    z-index:200;display:none; padding:7px 2px;
     margin-top:-25px; margin-left:20px;
     width:300px; line-height:16px;
 }
@@ -67,7 +67,7 @@ a.tooltipgre {outline:none; }
 a.tooltipgre strong {line-height:30px;}
 a.tooltipgre:hover {text-decoration:none;} 
 a.tooltipgre span {
-    z-index:20;display:none; padding:7px 2px;
+    z-index:200;display:none; padding:7px 2px;
     margin-top:-25px; margin-left:20px;
     width:300px; line-height:16px;
 }
@@ -89,7 +89,7 @@ a.tooltiporg {outline:none; }
 a.tooltiporg strong {line-height:30px;}
 a.tooltiporg:hover {text-decoration:none;} 
 a.tooltiporg span {
-    z-index:20;display:none; padding:7px 2px;
+    z-index:200;display:none; padding:7px 2px;
     margin-top:-25px; margin-left:20px;
     width:300px; line-height:16px;
 }
@@ -113,7 +113,7 @@ a.tooltipblu {outline:none; }
 a.tooltipblu strong {line-height:30px;}
 a.tooltipblu:hover {text-decoration:none;} 
 a.tooltipblu span {
-    z-index:20;display:none; padding:7px 2px;
+    z-index:200;display:none; padding:7px 2px;
     margin-top:-25px; margin-left:20px;
     width:300px; line-height:16px;
 }
@@ -135,7 +135,7 @@ a.tooltipdol {outline:none; }
 a.tooltipdol strong {line-height:30px;}
 a.tooltipdol:hover {text-decoration:none;} 
 a.tooltipdol span {
-    z-index:20;display:none; padding:7px 2px;
+    z-index:200;display:none; padding:7px 2px;
     margin-top:-25px; margin-left:20px;
     width:300px; line-height:16px;
 }
